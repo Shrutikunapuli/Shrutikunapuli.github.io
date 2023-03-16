@@ -1,2 +1,2 @@
-# natasshaselvaraj.github.io
+# Shrutikunapuli.github.io
 portfolio project
