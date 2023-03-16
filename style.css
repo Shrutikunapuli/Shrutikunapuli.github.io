@@ -2469,7 +2469,7 @@ h2 {
   background: url(a10.jpg);
   background-size: cover;
   margin-bottom: -3px;
-  text-align: center !important;
+  text-align: justify !important;
 }
 
 .about-content {
