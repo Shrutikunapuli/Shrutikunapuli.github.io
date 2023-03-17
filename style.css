@@ -168,13 +168,13 @@
 p {
     margin-top: 0;
     margin-bottom: 1rem;
-    text-align: justify;
+    text-align: center;
     font-weight: "bold";
     font-size: "24";
 }
 
 h2 {
-    text-align: justify;
+    text-align: center;
 }
 
 .col-md-6 {
@@ -2370,7 +2370,7 @@ div {
 p {
     margin-top: 0;
     margin-bottom: 1rem;
-    text-align: justify;
+    text-align: center;
     font-weight: "bold";
     font-size: "24";
 }
@@ -2469,13 +2469,13 @@ h2 {
   background: url(a10.jpg);
   background-size: cover;
   margin-bottom: -3px;
-  text-align: justify !important;
+  text-align: center !important;
 }
 
 .about-content {
   font-weight: "bold";
   font-size: "24";
-  text-align: justify !important;
+  text-align: center !important;
   color: black;
 }
 
